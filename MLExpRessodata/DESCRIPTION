@@ -1,8 +1,9 @@
 Package: MLExpRessodata
-Title: What the Package Does (one line, title case)
-Version: 0.0.1.0000
+Title: Example datasets for MLExpResso package.
+Version: 0.0.1.1000
 Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: MLExpRessodata contains data such as gene expression and CpG islands metylation from TCGA (The Cancer Genome Atlas).
+            This data can be used as examples in the MLExpResso package.
 License: GPL
 Depends: R (>= 3.3.0)
 Encoding: UTF-8
