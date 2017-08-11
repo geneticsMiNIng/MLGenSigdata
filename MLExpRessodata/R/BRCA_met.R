@@ -5,6 +5,6 @@
 #' Values inside the table indicate the methylation level of CpG island for specified sample.
 #'
 #'@docType data
-#'@name BRCA_methylation_chr17
+#'@name BRCA_met
 #'@format data.frame
 NULL

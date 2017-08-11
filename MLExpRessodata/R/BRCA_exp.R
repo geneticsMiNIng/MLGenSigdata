@@ -5,6 +5,6 @@
 #' \code{SUBTYPE} corresponds to a subtype of BRCA cancer, next columns correspond to genes.
 #'
 #'@docType data
-#'@name BRCA_mRNAseq_chr17
+#'@name BRCA_exp
 #'@format data.frame
 NULL
