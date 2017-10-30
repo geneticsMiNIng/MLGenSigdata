@@ -2,3 +2,8 @@
 
 # MLExpRessoData
 
+Install from GitHub:
+
+```
+devtools::install_github("geneticsMiNIng/MLGenSigdata/MLExpRessodata")
+```
